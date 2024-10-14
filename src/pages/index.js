@@ -14,7 +14,7 @@ function Index(){
       <Row>
         <Col className="bg-danger">1 of 3</Col>
         <Col className="bg-danger-subtle">2 of 3</Col>
-        <Col  className="grad">3 of 3</Col>
+        <Col  className="bg-primary">3 of 3</Col>
       </Row>
     </Container>
     <Footer />
