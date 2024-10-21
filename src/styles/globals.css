@@ -1,1 +1,5 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
+
+.grad{
+    background: linear-gradient(180deg, rgba(50,51,49,1) 0%, rgba(121,189,209,1) 100%);
+}

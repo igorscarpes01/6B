@@ -1,7 +1,7 @@
 import { useRouter } from "next/router"
-export default function Page(){
-    const Router = useRouter()
+export default function Page() {
+    const router = useRouter()
     return <>
-        <p>Post: {Router.query.id}</p>
+        <p>Post: {router.query.id}</p>
     </>
 }
