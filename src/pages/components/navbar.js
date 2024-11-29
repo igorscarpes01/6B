@@ -14,6 +14,7 @@ function BasicExample() {
             <Nav.Link href="/noticias">Noticias</Nav.Link>
             <Nav.Link href="/promessa">Promessa</Nav.Link>
             <Nav.Link href="/page">Page</Nav.Link>
+            <Nav.Link href="/mesportes">Esportes</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       
